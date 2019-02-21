@@ -1,0 +1,49 @@
+#contentpane
+{
+    font-family: Monospace;
+}
+
+.keyword1
+{
+    color: #0000A0;
+}
+
+.keyword2
+{
+    color: #00A000;
+}
+
+.operator
+{
+    color: #FF0000;
+}
+
+.string
+{
+    color: #0000FF;
+}
+
+.char
+{
+    color: #FEA000;
+}
+
+.number
+{
+    color: #F000F0;
+}
+
+.preprocessor
+{
+    color: #00A000;
+}
+
+.comment1
+{
+    color: #A0A0A0;
+}
+
+.comment2
+{
+    color: #BEBEE6;
+}

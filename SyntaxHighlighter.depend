@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1432400383 source:/media/marcel/OS/Users/Asus/Documents/Data/Codes/Programeren/C++/Projecten/SyntaxHighlighter/main.cpp
+	<iostream>
+	"highlighter.h"
+
+1432402685 source:/media/marcel/OS/Users/Asus/Documents/Data/Codes/Programeren/C++/Projecten/SyntaxHighlighter/clexer.l
+
+1432404682 /media/marcel/OS/Users/Asus/Documents/Data/Codes/Programeren/C++/Projecten/SyntaxHighlighter/highlighter.h
+	<cstdio>
+
+1432575020 source:/media/marcel/OS/Users/Asus/Documents/Data/Codes/Programeren/C++/Projecten/SyntaxHighlighter/highlighter.cpp
+	"highlighter.h"
+	"scanners.h"
+	<cstdio>
+	<cstring>
+	<map>
+
+1432404282 /media/marcel/OS/Users/Asus/Documents/Data/Codes/Programeren/C++/Projecten/SyntaxHighlighter/scanners.h
+	<cstdio>
+
+1433184712 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\highlighter.cpp
+	"highlighter.h"
+	"scanners.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<map>
+
+1433181787 c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\highlighter.h
+	<cstdio>
+	"scanners.h"
+
+1433267493 c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\scanners.h
+	<cstdio>
+	<string>
+
+1433093022 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\main.cpp
+	<iostream>
+	"highlighter.h"
+
+1433093867 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\clexer.l
+	"scanners.h"
+
+1433185443 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\cpplexer.l
+	"scanners.h"
+
+1433098226 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\lexer.cpp
+	"scanners.h"
+
+1433185648 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\javalexer.l
+	"scanners.h"
+
+1433267824 source:c:\users\asus\documents\data\codes\programeren\c++\projecten\syntaxhighlighter\asmlexer.l
+	"scanners.h"
+
+1433271426 source:d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\asmlexer.l
+	"scanners.h"
+
+1433271094 d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\scanners.h
+	<cstdio>
+	<string>
+
+1433189044 source:d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\cpplexer.l
+	"scanners.h"
+
+1433188314 source:d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\highlighter.cpp
+	"highlighter.h"
+	"scanners.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<map>
+
+1433185388 d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\highlighter.h
+	<cstdio>
+	"scanners.h"
+
+1433101828 source:d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\lexer.cpp
+	"scanners.h"
+
+1433096624 source:d:\bestanden\data\codes\programeren\c++\finished\syntaxhighlighter\main.cpp
+	<iostream>
+	"highlighter.h"
+
